@@ -1,5 +1,4 @@
-<iframe width="640" height="640" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
-
+<img>https://hdwallpaperim.com/wp-content/uploads/2017/08/24/102751-glider-black-hacking-748x421.jpg</img>
 
 <!-- wp:spacer {"height":16} -->
 <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
