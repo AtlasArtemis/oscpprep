@@ -1,5 +1,9 @@
+<!-- wp:spacer {"height":16} -->
 <iframe width="640" height="640" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
-  
+<!-- /wp:spacer -->
+
+
+
 <!-- wp:spacer {"height":16} -->
 <div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
